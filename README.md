@@ -15,6 +15,11 @@
   </a>&nbsp;&nbsp;
 </p>
  
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=janmaru&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /></a>
