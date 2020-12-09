@@ -4,7 +4,7 @@
 
 <h3 align='center'>
   A Sr. developer from Taipei, Taiwan.
-</3>
+</h3>
 
 <p align='center'>  
   <a href="https://www.linkedin.com/in/mauro-ghiani-46010543/">
