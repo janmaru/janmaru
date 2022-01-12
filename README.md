@@ -108,3 +108,17 @@
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/></a>
 </p>
 
+### 📙 Blog Posts
+
+<!--START_SECTION:feed-->
+- **[Is OOP irrelevant?](https://janmaru.medium.com/is-oop-irrelevant-13a253c3344b)**
+- **[Where’s Waldo? I dunno.](https://levelup.gitconnected.com/wheres-waldo-i-dunno-b259bea64c95)**
+- **[Zero Knowledge](https://levelup.gitconnected.com/zero-knowledge-3be24e62ad06)**
+- **[Ariadne’s thread](https://janmaru.medium.com/ariadnes-thread-cdb6ce08c8a)**
+- **[A gentle introduction to Category Theory](https://janmaru.medium.com/a-gentle-introduction-to-category-theory-9be2de49880c)**
+- **[Eine kleine Netmusik](https://janmaru.medium.com/dot-net-core-category-772b4301c8b1)**
+- **[Meta-rationality](https://janmaru.medium.com/meta-rationality-5e639fa795b1)**
+- **[Wow functors.](https://janmaru.medium.com/wow-functors-bf5102405a5b)**
+- **[Coulored Money](https://levelup.gitconnected.com/coulored-money-ef6fb7403ab4)**
+- **[Numbers fly like bananas!](https://janmaru.medium.com/numbers-fly-like-bananas-7bf816ee2382)**
+<!--END_SECTION:feed-->
