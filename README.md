@@ -123,4 +123,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-
+<p align="center">
+  <img alt="Visitor count" src="https://profile-counter.glitch.me/janmaru/count.svg" style="display: inline-block; margin: auto;" />  
+</p>
