@@ -19,6 +19,7 @@
 - **[Wow functors.](https://janmaru.medium.com/wow-functors-bf5102405a5b)**
 - **[Coulored Money](https://levelup.gitconnected.com/coulored-money-ef6fb7403ab4)**
 - **[Numbers fly like bananas!](https://janmaru.medium.com/numbers-fly-like-bananas-7bf816ee2382)**
+- **[A random educated guess.](https://www.linkedin.com/pulse/random-educated-guess-mauro-ghiani/)**
 <!--END_SECTION:feed-->
 
 <p align='center'>  
